@@ -114,7 +114,7 @@ cantidad
 
 
 
-![antiguedades_db](C:\Users\andre\OneDrive\Desktop\PUSH-UP\Antiguedades_DB\antiguedades_db.png)
+[![antiguedades_db](C:\Users\andre\OneDrive\Desktop\PUSH-UP\Antiguedades_DB\antiguedades_db.png)](https://github.com/Nakrz/Antiguedades_DB/blob/main/antiguedades_db.png)
 
 
 
